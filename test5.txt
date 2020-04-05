@@ -5,3 +5,4 @@ Finally email's working - test1
 Finally email's working - test2 to get email for every build using email trigger - Always
 Finally email's working - test3 to get email - jenkins global setting - allow sending to unregistered users
 Finally email's working - test4 to get email - added notifications to the project with the email address
+Finally email's working - test5 to get email - in the compile and test, job configured git with email address
