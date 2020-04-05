@@ -1,4 +1,5 @@
 fixed maven issue in github and Maven compile again
 test to see if i get an email
 test to see if Maven test the code
-Finally email's working - test
+Finally email's working - test1
+Finally email's working - test2 to get email for every build using email trigger - Always
