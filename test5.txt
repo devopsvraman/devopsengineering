@@ -4,3 +4,4 @@ test to see if Maven test the code
 Finally email's working - test1
 Finally email's working - test2 to get email for every build using email trigger - Always
 Finally email's working - test3 to get email - jenkins global setting - allow sending to unregistered users
+Finally email's working - test4 to get email - added notifications to the project with the email address
